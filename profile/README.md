@@ -1,65 +1,70 @@
-# BilaWasita – Job Opportunities Without Intermediaries
+# 📱 Bala Wasta – Job Opportunities Without Intermediaries
 
-![BilaWasita Banner](images/banner.png) <!-- ضع هنا صورة غلاف جميلة للتطبيق -->
 
-## 📱 About the App
+## 🔍 Overview
 
-**BilaWasita** is a modern mobile platform built to connect **job seekers** directly with **recruiters**, removing the need for middlemen.  
-Our mission is to make job opportunities more **accessible**, **fair**, and **transparent** for everyone.
+**Bala Wasta** is a university project developed by a team of students from the Faculty of Informatics Engineering – Damascus University.  
 
-Whether you're looking for your next career move or searching for the right candidate, BilaWasita is designed to help you connect faster and easier.
+The app provides a clean, direct, and fair platform that connects **job seekers** with **recruiters**, removing the need for intermediaries and restoring trust in the hiring process.
+
+---
+
+## 🎯 Goals
+
+- Promote **equal access to job opportunities**
+- Eliminate favoritism and **increase transparency**
+- Support job seekers in finding roles that match their **skills and interests**
+- Help companies and HR staff **manage job posts and communicate with candidates** efficiently
 
 ---
 
 ## 🌟 Key Features
 
-- 🔍 Direct connection between job seekers and recruiters  
-- 🧑‍💼 Separate user flows for job seekers and employers  
-- 💬 Simple, modern, and intuitive UI  
-- 🛠️ Profile creation, job posting, and job application
+### For Job Seekers:
+- Personal profile and **CV builder**
+- Apply for jobs directly from within the app
+- **Smart job recommendations** based on profile
+- Save and manage job posts
+- Download CV as **PDF**
+- Filter jobs by industry, type, city, etc.
+- View saved jobs **offline**
+
+### For Recruiters:
+- Create and manage job posts
+- Auto-fill job details using role-based templates
+- View and filter candidate applications
+- Accept/reject applicants and send responses
+- Start secure **in-app chats** with selected candidates
 
 ---
 
-## 🎯 Our Vision
+## 🧠 Smart Enhancements
 
-We believe everyone deserves equal access to opportunities. BilaWasita aims to break down barriers and create a job market that works for **everyone**, not just those with connections.
+- 🔁 Auto-complete & auto-fill for forms
+- 🌐 Arabic & English language support
+- 🌙 Dark Mode
+- 📶 Offline mode with caching
+- 📢 Smart notifications and alerts
+- 🔍 Dual layout for browsing jobs (cards or minimal list)
 
 ---
 
-## 🖼️ Screenshots
+## 🧰 Technologies
 
-| Job Seeker Flow | Recruiter Flow |
-|-----------------|----------------|
-| ![Seeker Screenshot](images/seeker1.png) | ![Recruiter Screenshot](images/recruiter1.png) |
-| ![Seeker Screenshot 2](images/seeker2.png) | ![Recruiter Screenshot 2](images/recruiter2.png) |
-
-> _More screenshots and demo coming soon..._
+- **Flutter** for mobile app development  
+- **Laravel** for backend API and role management  
+- **Firebase** for messaging and notifications  
 
 ---
 
 ## 👥 Team
 
-This app was developed by a group of university students passionate about creating meaningful digital solutions:
+| Name                | Role       | Email                |
+|---------------------|------------|-----------------------|
+| **Raghad Sharouf**    | Frontend   | -    |
+| **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     |
+| **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      |
+| **Hiba Mahmoud**     | Backend    | -      |
+| **Shadi Al-Salim**      | Backend    | -     |
 
-- [Your Name] – Project Lead  
-- [Friend 1 Name] – UI/UX & Frontend  
-- [Friend 2 Name] – Backend & Architecture  
-- [Friend 3 Name] – Testing & Documentation  
-
----
-
-## 📬 Contact
-
-For inquiries, suggestions, or feedback:  
-📧 [your.email@example.com]  
-🌐 [LinkedIn / GitHub / Portfolio if any]
-
----
-
-## 🧠 Note
-
-This project is part of our university graduation project.  
-We're proud to share it as an open-source initiative and are excited to keep improving it!
-
----
 
