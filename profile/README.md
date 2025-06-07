@@ -1,6 +1,6 @@
 # 📱 Bala Wasta – Job Opportunities Without Intermediaries
+### Wasta... it means without nepotism in Arabic
 ![Banner](images/banner_image.png) 
-
 ## 🔍 Overview
 
 **Bala Wasta** is a university project developed by a team of students from the Faculty of Informatics Engineering – Damascus University.  
