@@ -1,5 +1,5 @@
 # 📱 Bala Wasta – Job Opportunities Without Intermediaries
-![Banner](images/banner.png) 
+![Banner](images/banner_image.png) 
 
 ## 🔍 Overview
 
