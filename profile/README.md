@@ -1,5 +1,5 @@
 # 📱 Bala Wasta – Job Opportunities Without Intermediaries
-### Wasta... it means without nepotism in Arabic
+### Bala Wasta... it means "without nepotism" in Arabic
 ![Banner](images/banner2.png) 
 ## 🔍 Overview
 
