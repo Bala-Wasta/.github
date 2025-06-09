@@ -9,6 +9,19 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 
 ---
 
+## 👥 Team
+
+| Name                | Role       | Email                | Github |
+|---------------------|------------|-----------------------|-----|
+| **Raghad Sharouf**    | Frontend   | -    |-|
+| **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     |https://github.com/RahafDayoub4 |
+| **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      | https://github.com/rony22mansor|
+| **Hiba Mahmoud**     | Backend    | -      |-|
+| **Shadi Al-Salim**      | Backend    | -     |-|
+
+
+---
+
 ## 🎯 Goals
 
 - Promote **equal access to job opportunities**
@@ -54,19 +67,6 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 - **Flutter** for mobile app development  
 - **Laravel** for backend API and role management  
 - **Firebase** for messaging and notifications  
-
----
-
-## 👥 Team
-
-| Name                | Role       | Email                | Github |
-|---------------------|------------|-----------------------|-----|
-| **Raghad Sharouf**    | Frontend   | -    |-|
-| **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     |https://github.com/RahafDayoub4 |
-| **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      | https://github.com/rony22mansor|
-| **Hiba Mahmoud**     | Backend    | -      |-|
-| **Shadi Al-Salim**      | Backend    | -     |-|
-
 
 ---
 
