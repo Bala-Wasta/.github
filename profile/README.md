@@ -31,6 +31,16 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 
 ---
 
+## 🖼️ Screenshots
+
+|   |   ||
+| ---| ---| ---|
+| ![](images/i_1.png) | ![](images/i_2.png) |![](images/i_3.png)|
+  | ![](images/i_4.png) | ![](images/i_5.png)|![](images/i_6.png)|
+
+
+---
+
 ## 🌟 Key Features
 
 ### For Job Seekers:
@@ -67,13 +77,3 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 - **Flutter** for mobile app development  
 - **Laravel** for backend API and role management  
 - **Firebase** for messaging and notifications  
-
----
-
-## 🖼️ Screenshots
-
-|   |   ||
-| ---| ---| ---|
-| ![](images/i_1.png) | ![](images/i_2.png) |![](images/i_3.png)|
-  | ![](images/i_4.png) | ![](images/i_5.png)|![](images/i_6.png)|
-
