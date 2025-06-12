@@ -13,7 +13,7 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 
 | Name                | Role       | Email                | Github |
 |---------------------|------------|-----------------------|-----|
-| **Raghad Sharouf**    | Frontend   | -    |-|
+| **Raghad Sharouf**    | Frontend   | raghadadnan630@gmail.com    | raghad-adnan |
 | **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     | https://github.com/RahafDayoub4 |
 | **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      | https://github.com/rony22mansor |
 | **Hiba Mahmoud**     | Backend    | hiba.zaki.mahmoud@gmail.com      | https://github.com/hiba77moh |
