@@ -13,11 +13,11 @@ The app provides a clean, direct, and fair platform that connects **job seekers*
 
 | Name                | Role       | Email                | Github |
 |---------------------|------------|-----------------------|-----|
-| **Raghad Sharouf**    | Frontend   | raghadadnan630@gmail.com    | raghad-adnan |
-| **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     | https://github.com/RahafDayoub4 |
-| **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      | https://github.com/rony22mansor |
-| **Hiba Mahmoud**     | Backend    | hiba.zaki.mahmoud@gmail.com      | https://github.com/hiba77moh |
-| **Shadi Al-Salim**      | Backend    | shadisalim510@gmail.com     | https://github.com/ShadiAlsalim |
+| **Raghad Sharouf**    | Frontend   | raghadadnan630@gmail.com    | [raghad-adnan](https://github.com/raghad-adnan) |
+| **Rahaf Dayoub**    | Frontend   | rahafdayoub274@gmail.com     | [RahafDayoub4](https://github.com/RahafDayoub4) |
+| **Rony Mansour**     | Frontend   | rony.e.mansor@gmail.com      | [rony22mansor](https://github.com/rony22mansor) |
+| **Hiba Mahmoud**     | Backend    | hiba.zaki.mahmoud@gmail.com      | [hiba77moh](https://github.com/hiba77moh) |
+| **Shadi Al-Salim**      | Backend    | shadisalim510@gmail.com     | [ShadiAlsalim](https://github.com/ShadiAlsalim) |
 
 
 ---
